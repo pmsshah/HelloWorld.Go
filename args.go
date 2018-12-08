@@ -19,7 +19,7 @@ func main() {
 	} else {
 		return
 	}
-	
+	/* print the args */
 	if (strings.EqualFold(string1, string2)) {
 		fmt.Printf("%s is equal to %s \n", string1, string2)
 	} else {
